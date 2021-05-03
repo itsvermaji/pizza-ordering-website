@@ -5,9 +5,9 @@ Users can place the order online of their favorite pizzas in any quantity which 
 panel. Intuitive navigation and easy layout so that the restaurant can make more profits.
 
 ## Sample Shots
-![Inventory](https://github.com/itsvermaji/pizza-ordering-website/master/screenshots/inventory.png.png)
-![Order Details](https://github.com/itsvermaji/pizza-ordering-website/master/screenshots/order-details.png)
-![Registration](https://github.com/itsvermaji/pizza-ordering-website/master/screenshots/registration.png)
+![Inventory](https://github.com/itsvermaji/pizza-ordering-website/blob/master/screenshots/inventory.png)
+![Order Details](https://github.com/itsvermaji/pizza-ordering-website/blob/master/screenshots/order-details.png)
+![Registration](https://github.com/itsvermaji/pizza-ordering-website/blob/master/screenshots/registration.png)
 
 
 
